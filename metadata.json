@@ -1,0 +1,6 @@
+{
+  "name": "ARYASH AI",
+  "description": "Adaptive AI Learning Intelligence Platform — Learn Your Way. Master Your Future.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
